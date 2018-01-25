@@ -45,9 +45,16 @@
   padding: 40px;
 
 }
+.bold {
+  font-weight: bold;
+}
 .float-r {
   float: right;
 }
 .pd-25 {
   padding: 25px;
+}
+.border {
+  border: 2px solid #728CB0;
+  border-radius: 3px;
 }
